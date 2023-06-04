@@ -1,6 +1,7 @@
 # Local_Remote_Control
 
 X: device with W11
+
 Y: device with linux (Pop!_OS)
 
 
