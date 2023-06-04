@@ -15,9 +15,8 @@ sudo apt install openssh-server
 ```
 
 2. When installed, it should be automatically running, check it with:
-'''
-sudo systemctl status ssh
-'''
+```sudo systemctl status ssh
+```
 
 3. You need to know the ip of this device, get it with:
 ```
